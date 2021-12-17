@@ -11,7 +11,7 @@
     "lib": "javascript"
   },
   "dependencies": {
-    "@rails/actioncable": ">= 6.0",
+    "@rails/actioncable": ">=6.1.4",
     "morphdom": "^2.6.1"
   },
   "scripts": {
