@@ -15,8 +15,8 @@ gem "view_component"
 gem "simplecov", "< 0.18", require: false
 
 gem "generator_spec"
-gem "capybara", ">= 2.15", "< 4.0"
-gem "webdrivers", "~> 4.0", require: false
+gem "capybara", ">= 3.33.0", "< 4.0"
+gem "webdrivers", "~> 4.4", ">= 4.4.1", require: false
 gem "puma"
 gem "webpacker"
 gem "sqlite3"
