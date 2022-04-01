@@ -17,7 +17,7 @@ gem "simplecov", "< 0.18", require: false
 gem "generator_spec"
 gem "capybara", ">= 2.15", "< 4.0"
 gem "webdrivers", "~> 4.0", require: false
-gem "puma"
+gem "puma", ">= 5.6.4"
 gem "webpacker"
 gem "sqlite3"
 gem "appraisal"
